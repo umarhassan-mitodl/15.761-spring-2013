@@ -40,9 +40,9 @@ McDonald's and Burger King cases
 
 ### Case
 
-Sasser, Jr., W. Earl, et al. "{{% resource_link "c57c52d3-391d-4c54-9e4d-498ad036eaa5" "McDonald's Corp. (Condensed)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-044, December 1, 1980.
+Sasser, Jr., W. Earl, et al. "[McDonald's Corp. (Condensed)](http://www.hbs.edu/faculty/Pages/item.aspx?num=21045)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-044, December 1, 1980.
 
-———. "{{% resource_link "c66b7bdc-6591-4d7e-8ec3-ff03a7768a7b" "Burger King Corp" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-045, December 1, 1980.
+———. "[Burger King Corp](http://www.hbs.edu/faculty/Pages/item.aspx?num=21047)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-045, December 1, 1980.
 
 ### Readings
 
@@ -80,11 +80,11 @@ Capacity II: Process re-engineering + CVS case
 
 ### Case
 
-McAfee, Andrew. "{{% resource_link "d8c348d0-5630-4fb7-a859-db6a75810071" "Pharmacy Service Improvement at CVS (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-606-015, December 14, 2005.
+McAfee, Andrew. "[Pharmacy Service Improvement at CVS (A)](http://hbr.org/product/pharmacy-service-improvement-at-cvs-a/an/606015-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-606-015, December 14, 2005.
 
 ### Reading
 
-Hammer, Michael. "{{% resource_link "9bdef360-b8e8-4140-9661-10bad6f4df9d" "Reengineering Work: Don't Automate, Obliterate" %}}." *Harvard Business Review* 68, no. 4 (1990): 104–12.
+Hammer, Michael. "[Reengineering Work: Don't Automate, Obliterate](http://hbr.org/1990/07/reengineering-work-dont-automate-obliterate/ar/1)." *Harvard Business Review* 68, no. 4 (1990): 104–12.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -94,7 +94,7 @@ PATA case
 
 ### Case
 
-McCarty, Kelsey, Jérémie Gallien, et al. "{{% resource_link "0deedbe1-7b5e-4971-a2e4-14e7cdc35fcb" "Massachusetts General Hospital's Pre-admission Testing Area (PATA)" %}}." MIT Sloan Case. MIT Sloan School of Management. Case: 11–116, January 3, 2012.
+McCarty, Kelsey, Jérémie Gallien, et al. "[Massachusetts General Hospital's Pre-admission Testing Area (PATA)](https://mitsloan.mit.edu/LearningEdge/operations-management/PATA/Pages/default.aspx)." MIT Sloan Case. MIT Sloan School of Management. Case: 11–116, January 3, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -114,11 +114,11 @@ Supply chain strategy + HP DeskJet case
 
 ### Case
 
-Kopczak, Laura Rock, and Hau Lee. "{{% resource_link "f2dd7e95-7221-49ff-8733-9aeb2e345ab7" "Hewlett-Packard Co.: DeskJet Printer Supply Chain (A)" %}}." Stanford Graduate School of Business Case. Case: GS-3A, March 8, 2004.
+Kopczak, Laura Rock, and Hau Lee. "[Hewlett-Packard Co.: DeskJet Printer Supply Chain (A)](http://www.thecasesolutions.com/hewlett-packard-co-deskjet-printer-supply-chain-a-13494)." Stanford Graduate School of Business Case. Case: GS-3A, March 8, 2004.
 
 ### Readings
 
-Magretta, Joan. "{{% resource_link "6d828194-9f5d-4b35-b0e9-f7f717b92ff5" "The Power of Virtual Integration: An Interview with Dell Computer's Michael Dell" %}}." *Harvard Business Review* 76, no. 2 (1998): 73–84.
+Magretta, Joan. "[The Power of Virtual Integration: An Interview with Dell Computer's Michael Dell](http://hbr.org/1998/03/the-power-of-virtual-integration-an-interview-with-dell-computers-michael-dell/ar/1)." *Harvard Business Review* 76, no. 2 (1998): 73–84.
 
 Fine, Charles H. "The Primacy of Chains: Capability Chains Make a Business." Chapter 5 in *Clockspeed: Winning Industry Control in the Age of Temporary Advantage*. Basic Books, 1999. ISBN: 9780738201535.
 
@@ -140,11 +140,11 @@ Sport Obermeyer case
 
 ### Case
 
-Hammond, Janice H., and Ananth Raman. "{{% resource_link "664fff0d-8fdc-4c41-a04d-0ee4544ea819" "Sport Obermeyer Ltd" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-695-022, October 13, 1994.
+Hammond, Janice H., and Ananth Raman. "[Sport Obermeyer Ltd](http://hbr.org/product/sport-obermeyer-ltd/an/695022-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-695-022, October 13, 1994.
 
 ### Readings
 
-Fisher, Marshall L., Ananth Raman, et al. "{{% resource_link "6e002764-67d7-496d-be9a-569da14887a6" "Rocket-Science Retailing Is Almost Here: Are You Ready?" %}}" *Harvard Business Review* 78, no. 4 (2000): 115–24.
+Fisher, Marshall L., Ananth Raman, et al. "[Rocket-Science Retailing Is Almost Here: Are You Ready?](http://hbr.org/2000/07/are-you-ready/ar/1)" *Harvard Business Review* 78, no. 4 (2000): 115–24.
 
 \[MSD\] Chapter 15.
 
@@ -156,11 +156,11 @@ Toyota production system + Toyota case
 
 ### Case
 
-Mishina, Kazuhiro. "{{% resource_link "2c419000-6faf-45cf-b986-fc8f17d36434" "Toyota Motor Manufacturing, U.S.A., Inc" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-693-019, September 8, 1992.
+Mishina, Kazuhiro. "[Toyota Motor Manufacturing, U.S.A., Inc](http://hbr.org/product/toyota-motor-manufacturing-u-s-a-inc/an/693019-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-693-019, September 8, 1992.
 
 ### Readings
 
-Spear, Steven, and H. Kent Bowen. "{{% resource_link "58984f23-3feb-49d9-b70a-5cbcf24cc897" "Decoding the DNA of the Toyota Production System" %}}." *Harvard Business Review* 77, no. 5 (1999): 96–106.
+Spear, Steven, and H. Kent Bowen. "[Decoding the DNA of the Toyota Production System](http://hbr.org/1999/09/decoding-the-dna-of-the-toyota-production-system/ar/1)." *Harvard Business Review* 77, no. 5 (1999): 96–106.
 
 \[MSD\] Chapter 11.
 
@@ -176,7 +176,7 @@ Pich, Michael, Ludo Van der Heyden, et al. "Marks & Spencer and Zara: Process Co
 
 ### Readings
 
-Fung, Victor. "{{% resource_link "5724f945-ce7d-4efe-8bba-9d5bbc910785" "Fast, Global and Entrepreneurial: Supply-Chain Management, Hong Kong Style" %}}." *Harvard Business Review* 76, no. 5 (1998): 103–14.
+Fung, Victor. "[Fast, Global and Entrepreneurial: Supply-Chain Management, Hong Kong Style](http://hbr.org/1998/09/fast-global-and-entrepreneurial-supply-chain-management-hong-kong-style/ar/1)." *Harvard Business Review* 76, no. 5 (1998): 103–14.
 
 \[MSD\] Chapter 10.
 
@@ -188,7 +188,7 @@ Amazon case
 
 ### Case
 
-Hammond, Janice H., and Claire Chiron. "{{% resource_link "0d31d966-53f5-49c2-8db7-47feab4abca6" "Amazon.com's European Distribution Strategy" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-605-002, June 30, 2005.
+Hammond, Janice H., and Claire Chiron. "[Amazon.com's European Distribution Strategy](http://hbr.org/product/amazon-com-s-european-distribution-strategy/an/605002-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-605-002, June 30, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -196,16 +196,16 @@ Hammond, Janice H., and Claire Chiron. "{{% resource_link "0d31d966-53f5-49c2-8d
 
 Littlefield Technologies simulation game
 
-Guest Lecturer: James Miller, {{% resource_link "e51e705d-6900-49bb-bdbc-9f09ccfb071e" "*MIT Leaders for Global Operations*" %}} *(formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google.*
+Guest Lecturer: James Miller, [*MIT Leaders for Global Operations*](http://lgo.mit.edu/) *(formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google.*
 
 {{< tdclose >}}{{< tdopen >}}
-For an overview of the game, go to {{% resource_link "8cbf58aa-efdc-4c63-8e53-3d72116a8c7c" "Littlefield Technologies simulator" %}}.
+For an overview of the game, go to [Littlefield Technologies simulator](http://responsive.net/littlefield/littlefieldHome.html).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
 Littlefield Technologies simulation game
 {{< tdclose >}}{{< tdopen >}}
-For an overview of the game, go to {{% resource_link "8cbf58aa-efdc-4c63-8e53-3d72116a8c7c" "Littlefield Technologies simulator" %}}.
+For an overview of the game, go to [Littlefield Technologies simulator](http://responsive.net/littlefield/littlefieldHome.html).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
@@ -214,7 +214,7 @@ European recycling platform case
 
 ### Case
 
-Lee, Hau, and Maria Shao. "{{% resource_link "6a429ea3-3a5d-47bf-a851-e08823e61387" "The European Recycling Platform: Promoting Competition in E-waste Recycling" %}}." Stanford Graduate School of Business Case. Case: G-S67, August 28, 2009.
+Lee, Hau, and Maria Shao. "[The European Recycling Platform: Promoting Competition in E-waste Recycling](http://hbr.org/product/the-european-recycling-platform-promoting-competit/an/GS67-PDF-ENG)." Stanford Graduate School of Business Case. Case: G-S67, August 28, 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -230,11 +230,11 @@ Quality management + Hank Kolb case
 
 ### Case
 
-Leonard, Frank S. "{{% resource_link "79337275-4bce-4d9d-917f-b20d31bdcf2a" "Hank Kolb, Director, Quality Assurance" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981.
+Leonard, Frank S. "[Hank Kolb, Director, Quality Assurance](http://hbr.org/product/hank-kolb-director-quality-assurance/an/681083-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981.
 
 ### Readings
 
-Berwick, Donald M. "{{% resource_link "3df5a3c6-01d4-4365-aa21-55828e9dbad2" "Controlling Variation in Health Care: A Consultation from Walter Shewhart" %}}." *Medical Care* 29, no. 12 (1991): 1212–25.
+Berwick, Donald M. "[Controlling Variation in Health Care: A Consultation from Walter Shewhart](http://www.ncbi.nlm.nih.gov/pubmed/1745079)." *Medical Care* 29, no. 12 (1991): 1212–25.
 
 Weisz, William J. *Video transcript of "What is Six Sigma?"* Motorola, Inc.
 
@@ -248,7 +248,7 @@ Operational risk management II + Wal-Mart case
 
 ### Case
 
-Rosegrant, Susan, and Dutch Leonard. "{{% resource_link "2293947c-4ebd-4860-bf0e-edcc1a087d03" "Wal-Mart's Response to Hurricane Katrina: Striving for a Public-Private Partnership" %}}." Harvard Kennedy School Case. Harvard Business School Publishing. Case: 1876.0, August 28, 2007.
+Rosegrant, Susan, and Dutch Leonard. "[Wal-Mart's Response to Hurricane Katrina: Striving for a Public-Private Partnership](http://hbr.org/product/wal-mart-s-response-to-hurricane-katrina-striving-for-a-public-private-partnership/an/HKS150-PDF-ENG)." Harvard Kennedy School Case. Harvard Business School Publishing. Case: 1876.0, August 28, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -270,7 +270,7 @@ Revenue management II + Break.com case
 
 ### Case
 
-Roels, Guillaume, and Tyler Skowrup. {{% resource_link "85871274-9aac-4f87-b2f2-d5d12879c833" "\"Break.com.\" (PDF)" %}} UCLA Anderson School of Management Case. UCLA. October 2008.
+Roels, Guillaume, and Tyler Skowrup. ["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -280,7 +280,7 @@ Supply chain contracts + Barilla case
 
 ### Case
 
-Hammond, Janice H. "{{% resource_link "01ea8200-4e5d-424b-9377-8209929c76dc" "Barilla SpA (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-046, May 17, 1994.
+Hammond, Janice H. "[Barilla SpA (A)](http://hbr.org/product/barilla-spa-a/an/694046-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-046, May 17, 1994.
 
 ### Reading
 
