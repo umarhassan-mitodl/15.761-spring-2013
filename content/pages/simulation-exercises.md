@@ -12,7 +12,7 @@ Littlefield Technologies Factory Simulation Exercises
 
 As part of your team of at most 3 students, you will get to manage a virtual factory in two separate web-based simulation exercises. The goal of this assignment is to let you adapt and apply concepts from the first half of the class in a managerial situation; it will also give you a chance to formalize your own decision models and test their relevance and effectiveness.
 
-The platform for the Littlefield simulation game is available through the {{% resource_link "8cbf58aa-efdc-4c63-8e53-3d72116a8c7c" "Littlefield Technologies simulator" %}}. Once you have access to your factory, it is recommended that you familiarize yourself with the simulation game interface, analyze early demand data and plan your strategy for the game. When the game goes live, you will then receive additional customer orders and gain the ability to manage your factory.
+The platform for the Littlefield simulation game is available through the [Littlefield Technologies simulator](http://responsive.net/littlefield/littlefieldHome.html). Once you have access to your factory, it is recommended that you familiarize yourself with the simulation game interface, analyze early demand data and plan your strategy for the game. When the game goes live, you will then receive additional customer orders and gain the ability to manage your factory.
 
 Experience demonstrates that **advance planning** and **sound use of quantitative models blending physical and financial considerations** provide key competitive advantages in this game.
 

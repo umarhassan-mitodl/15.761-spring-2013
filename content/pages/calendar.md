@@ -275,7 +275,7 @@ Introduction to retailer pricing simulation exercise
 
 Littlefield Technologies simulation game
 
-Guest Lecturer: James Miller, _{{% resource_link "e51e705d-6900-49bb-bdbc-9f09ccfb071e" "MIT Leaders for Global Operations" %}} (formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google._
+Guest Lecturer: James Miller, _[MIT Leaders for Global Operations](http://lgo.mit.edu/) (formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google._
 
 
 {{< tdclose >}}
