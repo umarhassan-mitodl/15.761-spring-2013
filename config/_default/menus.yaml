@@ -1,0 +1,25 @@
+leftnav:
+- identifier: e6b0c93a-b655-4c12-10be-c497a67645b7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: aefee891-6cb9-63b2-0502-9a0311932508
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4c070244-e7f9-87c1-0842-df21dac40786
+  name: Cases and Readings
+  pageRef: /pages/cases-and-readings
+  weight: 30
+- identifier: c8369e17-a855-deb6-7676-690f6e1a2a2b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 4e41b758-de6f-7e7b-8acd-063dc70e9edd
+  name: Case Preparation Questions
+  pageRef: /pages/case-preparation-questions
+  weight: 50
+- identifier: 1f9bf30b-1832-a67a-6947-e428ae9928d1
+  name: Simulation Exercises
+  pageRef: /pages/simulation-exercises
+  weight: 60
