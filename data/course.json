@@ -28,7 +28,6 @@
     "website": "15-761-introduction-to-operations-management-spring-2013"
   },
   "course_title": "Introduction to Operations Management",
-  "hide_download": true,
   "course_description": "This course provides students with concepts, techniques and tools to design, analyze, and improve core operational capabilities, and apply them to a broad range of application domains and industries. It emphasizes the effect of uncertainty in decision-making, as well as the interplay between high-level financial objectives and operational capabilities. Topics covered include production control, risk pooling, quality management, process design, and revenue management. Also included are case studies, guest lectures, and simulation games which demonstrate central concepts.\n",
   "department_numbers": [
     "15"
@@ -39,7 +38,6 @@
     "content": "fa222486-cf6f-3d1c-82dd-629bc63de31c",
     "website": "15-761-introduction-to-operations-management-spring-2013"
   },
-  "hide_download_original": null,
   "learning_resource_types": [],
   "site_uid": "e587189c-4781-49fc-a773-889ad9f67c70",
   "site_short_id": "15.761-spring-2013",
